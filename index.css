@@ -1,0 +1,67 @@
+
+body{
+    background-color:#f3e7e7;
+    padding: 40px 0px;
+
+   
+}
+.box{
+padding: 30px;
+margin: 30px;
+
+background-color: rgb(245, 181, 249);
+
+border:3px solid;
+}
+img{
+    border:1px solid;
+    border-color: rgb(252, 46, 46);
+}
+
+.row{
+    justify-content: space-between;
+}
+
+.vera{
+    background-color:black;
+    color: rgb(161, 242, 242);
+    text-align: center;
+    border: 2px solid;
+    border-color: rgb(252, 14, 14);
+   width:180px 0px;
+   height: 200px 0px;
+    padding: 30px 0px;
+    margin: 60px 0px;
+
+}
+
+
+h1{
+    text-align: center;
+  margin: auto;
+  width:330px;
+  height: 60px;
+      border: 2px solid;
+      padding: 1px;
+      background-color: black;
+      color: red;
+      
+} 
+.vera1{
+
+    display: flex;   
+}
+
+.eventbox{
+   
+    
+    text-align: center;
+}
+
+.mass{
+    margin:10px;    
+}
+.mass1{
+    margin: 2px;
+    text-align:left;
+}
